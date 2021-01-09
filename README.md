@@ -25,3 +25,6 @@ To clone just edit tokens.json which will look like this:
 ```
 
 and put the guild ID where you want to copy from and the guild ID you want to copy to. You need full admin permissions on the guild you want to copy to. Then put in your discord token, make sure you're in both guilds then run a clone.bat file
+
+
+To see the Clone Bot working, see this video https://www.youtube.com/watch?v=DZXs0qXnjhI&ab_channel=Qlutch
